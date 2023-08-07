@@ -1,6 +1,10 @@
 # Lovelite
 A messenger java android app
 
+![Screenshot of login screen](https://github.com/Starcool20/Lovelite/blob/app/FB_IMG_16914435924494626.jpg)
+
+
+
 Features include:-
 - Simple and Clean UI
  - Active Status File send 
